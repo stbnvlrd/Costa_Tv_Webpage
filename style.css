@@ -116,4 +116,17 @@ body{
     align-items: center;
     height: 300px;
     flex-flow: column;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+#Noticias{
+    background-color: #003399;
+    width: 100%;
+    color: #f8f9fa;
+    border: #ffdf00;
+    border-bottom:5px;
+    border-top: 5px;
 }
