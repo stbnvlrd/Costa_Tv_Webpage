@@ -130,3 +130,11 @@ body{
     border-bottom:5px;
     border-top: 5px;
 }
+
+#dv1 {
+    background-image: url('image.jpg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    width:200px;
+    height:400px;
+   }
