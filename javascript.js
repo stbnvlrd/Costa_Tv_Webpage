@@ -1,14 +1,3 @@
-<style type="text/css"><!--
-#dv1 {
-  background-image: url('image.jpg');
-  background-repeat: no-repeat;
-  background-position: center top;
-  width:200px;
-  height:400px;
- }
---></style>
-
-<script type="text/javascript"><!--
 $(document).ready(function() {
   var ix = 1;
   $('#btn').click(function() {
@@ -19,4 +8,3 @@ $(document).ready(function() {
     ix++;
   });
 });
---></script>
